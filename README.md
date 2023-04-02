@@ -1,3 +1,6 @@
+## 2023-03-26
+자바 스터디 기록 첫 커밋
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
